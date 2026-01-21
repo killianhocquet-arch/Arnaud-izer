@@ -1,0 +1,7 @@
+{
+  "name": "Arnaudizer",
+  "description": "Analyse votre voix et transforme vos paroles en un désordre surréaliste et étrange (chelou).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
